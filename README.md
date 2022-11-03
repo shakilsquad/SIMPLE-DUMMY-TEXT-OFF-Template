@@ -1,2 +1,1 @@
-# class17
-phd to html css bosstrap  project
+# My live project : https://shakilsquad.github.io/class17/
